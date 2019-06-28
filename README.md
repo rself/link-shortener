@@ -16,7 +16,7 @@ npm i
 node index.js
 ```
 
-#### 3) To add a new Uri to the "database", navigate to http://localhost:8000/shorten?uri=[some uri here]
+#### 3) To add a new Uri to the "database", navigate to http://localhost:8000/shorten?uri=[someurihere]
 
 It will return the shortened link as part of a json
 
